@@ -9,7 +9,7 @@ Zheng Weijia (William)
 - 📫 聯絡方式？ How to reach me? Email: wjzheng99@outlook.com 
 - ⚡ Fun fact: 
     * 雖然是工科生但是技術力極其低下 An engineering student with his technical ability being extremely low.
-    * 懷舊黨。自認為更適合活在1990~2000年代 Nostalgia. More suitable to live in the 1990s~2000s.
+    * 懷舊黨。自認為更適合活在1990-2000年代 Nostalgia. More suitable to live in the 1990s-2000s.
 
 **「想的太多、做得太少。」 "Thinking too much while doing too little."**
 
