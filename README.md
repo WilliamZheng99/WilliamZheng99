@@ -17,5 +17,5 @@ Zheng Weijia (William)
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=WilliamZheng99&show_icons=true&count_private=true">
 </a>
 <a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamZheng99&exclude_repo=WilliamZheng99.github.io&langs_count=8&layout=compact&count_private=true">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamZheng99&exclude_repo=WilliamZheng99.github.io&langs_count=8&layout=compact&count_private=true">
 </a>
