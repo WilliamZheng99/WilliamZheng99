@@ -9,7 +9,3 @@ Zheng Weijia (William)
     * 懷舊黨。自認為更適合活在1990-2000年代 Nostalgia. More suitable to live in the 1990s-2000s.
 
 **「想的太多、做得太少。」 "Thinking too much while doing too little."**
-
-<a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=williamzheng0711&show_icons=true&count_private=true">
-</a>
