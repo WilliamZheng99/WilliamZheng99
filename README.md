@@ -3,7 +3,7 @@
 Zheng Weijia (William)
 
 - 🔭 香港中文大學 The Chinese University of Hong Kong
-- 🌱 數學與信息工程學系 Department of Mathematics and Information Engineering, UG
+- 🌱 信息工程學系 Department of Information Engineering, PG
 - 🏠 出沒地點：中大校園 Scope of activity: CUHK Campus
 - ⚡ Fun fact: 
     * 懷舊黨。自認為更適合活在1990-2000年代 Nostalgia. More suitable to live in the 1990s-2000s.
