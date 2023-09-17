@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Zheng Weijia (William)
+Zheng Weijia (William). I publish under the name "William W. Zheng". 
 
-- 🔭 香港中文大學 The Chinese University of Hong Kong
+- 🔭 香港中文大學信息工程學系 Department of Information Engineering, the Chinese University of Hong Kong
 - 🌱 信息工程學系 Department of Information Engineering, PG
 - 🏠 出沒地點：中大校園 Scope of activity: CUHK Campus
 - ⚡ Fun fact: 
